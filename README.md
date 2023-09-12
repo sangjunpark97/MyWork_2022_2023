@@ -10,3 +10,45 @@
 - 각종 활성화 함수 최적화 구현, Tensor 연산 최적화 등등 라이브러리의 완성 및 최적화에 기여.
 - 1인 작업으로, 3D Reconstruction (Moire, Multi-Focus, Laser-Triangulation), Object Detection (Optical-Flow), Image Filtering, Inpainting 등등 약 20개의 이미지 프로세싱 알고리즘을 개발.
 - 각 알고리즘에 Multi-Threading, SIMD 병렬화 및 최적화 작업 진행.
+
+### 사용 기술
+
+---
+
+- 언어 : C++ / C#
+- Single, Multi Thread
+- Naive, SIMD(SSE4, AVX2)
+
+- ### ✍🏻개발 알고리즘
+
+---
+
+아래 알고리즘 모두 스스로 학습/연구를 통하여 개발.
+
+🍀 3D Reconstruction
+
+- Moire 3D
+- Stereo Disparity
+- Laser Triangulation (Image, Profile)
+- Multi-Focus 3D
+
+🍀 Calibrator
+
+- Stereo Calibrator
+
+🍀 Image Processing
+
+- Inpainting Texture
+- Mura Detection
+- Thin Plate Spline Warping
+- Optical Flow Polynomial Expansion
+- Multi Focus
+- Binomial Filter
+- Gauss Filter
+- Mean Curvature Flow Filter
+- Mean Curvature Flow Weighted Filter
+- Shock Filter
+- High Dynamic Range
+- Operation Power
+- Page Pixel Picker
+- Page Pooling
