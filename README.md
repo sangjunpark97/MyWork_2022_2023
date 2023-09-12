@@ -2,7 +2,8 @@
 주식회사 포스로직 이미지 프로세싱 팀 연구원
 
 ![Moire3D](https://github.com/sangjunpark97/MyWork_2022_2023/assets/74389054/d7eed918-4115-4119-996e-2ace7126195d)
-[ImageProcessing_Algorithm_by_sangjunPark.pdf](https://github.com/sangjunpark97/MyWork_2022_2023/files/12582540/ImageProcessing_Algorithm_by_sangjunPark.pdf)
+
+개발 알고리즘 Performance Table : [ImageProcessing_Algorithm_by_sangjunPark.pdf](https://github.com/sangjunpark97/MyWork_2022_2023/files/12582540/ImageProcessing_Algorithm_by_sangjunPark.pdf)
 
 **기존 이미지 프로세싱과 딥 러닝을 결합해 모든 이미지 프로세싱 검사에 대한 요구를 한번에 해결하게 해주는 이미지 프로세싱 플랫폼 “FLImaging” 개발.**
 
